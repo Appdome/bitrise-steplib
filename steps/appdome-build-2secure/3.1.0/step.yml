@@ -6,7 +6,7 @@ description: |
 website: https://github.com/Appdome/bitrise-step-appdome-build-2secure-android
 source_code_url: https://github.com/Appdome/bitrise-step-appdome-build-2secure-android
 support_url: https://github.com/Appdome/bitrise-step-appdome-build-2secure-android/issues
-published_at: 2024-05-20T11:11:02.424366+03:00
+published_at: 2024-05-22T09:50:35.627083+03:00
 source:
   git: https://github.com/Appdome/bitrise-step-appdome-build-2secure-android.git
   commit: bb2c2a3356416d6620761fba7b01b9e75a85ef38
